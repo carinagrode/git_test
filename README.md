@@ -1,3 +1,2 @@
 # git_test
-My first (actually second) GitHub repo
-Hello Odin!
+This is my playground to test all the new Git commands. Learning is fun! :)
